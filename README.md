@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fcorreia3
-- 👀 I’m interested in using the power of data visualization to communicate complex phenomena in order to promote informed decisions by all citizens. 
-- 🌱 I’m currently learning more about UI/UX. 
-- 💞️ I’m looking to collaborate on Phython, JavaScript and I am open to learn about fields that push my goals forward.  
+- 👀 I’m interested in using the power of data visualization to communicate complex phenomena in order to promote informed decisions by all. 
+- 🌱 I’m currently learning more about UI/UX and geospatial data. 
+- 💞️ I’m looking to collaborate on Python, JavaScript and I am open to learn about fields that push my goals forward.  
 - ✨ My github portfolio is in the beauty spa to be prettified, excuse any mess you may encounter.  
